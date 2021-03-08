@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 pub struct Stack<T> {
     head: Link<T>
 }
